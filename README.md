@@ -6,7 +6,7 @@ A Pandas mini project that cleans a messy sales dataset (`Messy_data.csv`) in Go
 - `Messy_data.csv`: original dataset (185 rows)
 - `sales_data_cleaning.ipynb`: cleaning notebook
 - `cleaned_sales_dataset.csv`: cleaned output (180 rows, with a new `TotalAmount` column)
-- `cleaning_summary.md`: short summary of the cleaning steps
+- `cleaning-summary.md`: short summary of the cleaning steps
 - `problem_statement.md`: project brief
 
 ## What was cleaned
